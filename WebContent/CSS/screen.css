@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+H2{
+	font-size: 40px;
+	margin: 0;
+}
+BODY{
+	background-color: #696969;
+}
+#form{
+	margin: 10px 0px;
+}
+#container{
+	background-color: #FFFFFF;
+	width: 300px;
+	min-height: 200px;
+	margin: 10px auto;
+	padding: 10px;
+}
+#name{
+	font-size: 25px;
+	width: 99%;
+}
+#button{
+	font-size: 30px;
+	width: 100%;
+}
+#greeting{
+	font-size: 25px;
+	margin-top: 5px;
+}
